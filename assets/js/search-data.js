@@ -431,16 +431,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-attended-iccv-2023",
+          title: 'I attended ICCV 2023!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-attended-iccv-2023",
+          title: 'I attended ICCV 2023!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-was-awarded-the-singapore-national-academy-of-science-award-a-national-award-recognizing-students-for-excelling-in-their-respective-scientific-disciplines",
+          title: 'I was awarded the Singapore National Academy of Science Award, a national award...',
+          description: "",
+          section: "News",},{id: "news-i-attended-neurips-2024",
+          title: 'I attended Neurips 2024!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
