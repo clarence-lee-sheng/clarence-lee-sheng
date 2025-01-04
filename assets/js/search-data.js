@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-attended-iccv-2023",
-          title: 'I attended ICCV 2023!',
+    },{id: "news-i-was-awarded-the-james-dyson-machine-learning-award-for-being-top-in-the-cohort-in-50-007-machine-learning",
+          title: 'I was awarded the James Dyson Machine Learning Award for being top in...',
           description: "",
           section: "News",},{id: "news-i-attended-iccv-2023",
           title: 'I attended ICCV 2023!',
