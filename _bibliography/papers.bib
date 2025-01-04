@@ -57,7 +57,6 @@
   video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
   additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
   annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
   inspirehep_id = {3255}
 }
 
@@ -112,4 +111,27 @@
   publisher={Vision},
   preview={wave-mechanics.gif},
   abbr={Vision}
+}
+
+@inproceedings{lee2023determinet,
+  title={DetermiNet: A Large-Scale Diagnostic Dataset for Complex Visually-Grounded Referencing using Determiners},
+  author={Lee, Clarence and Kumar, M Ganesh and Tan, Cheston},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={20019--20028},
+  year={2023},
+  selected={true},
+  journal={ICCV},
+  video={https://www.youtube.com/watch?v=rsTrUVL8yzM&t=172s},
+  abstract={State-of-the-art visual grounding models can achieve high detection accuracy, but they are not designed to distinguish between all objects versus only certain objects of interest. In natural language, in order to specify a particular object or set of objects of interest, humans use determiners such as "my", "either" and "those". Determiners, as an important word class, are a type of schema in natural language about the reference or quantity of the noun. Existing grounded referencing datasets place much less emphasis on determiners, compared to other word classes such as nouns, verbs and adjectives. This makes it difficult to develop models that understand the full variety and complexity of object referencing. Thus, we have developed and released the DetermiNet dataset, which comprises 250,000 synthetically generated images and captions based on 25 determiners. The task is to predict bounding boxes to identify objects of interest, constrained by the semantics of the given determiner. We find that current state-of-the-art visual grounding models do not perform well on the dataset, highlighting the limitations of existing models on reference and quantification tasks.},
+  pdf={https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_DetermiNet_A_Large-Scale_Diagnostic_Dataset_for_Complex_Visually-Grounded_Referencing_using_ICCV_2023_paper.pdf}
+}
+
+@article{sim2024evaluating,
+  title={Evaluating the Generation of Spatial Relations in Text and Image Generative Models},
+  author={Sim, Shang Hong and Lee, Clarence and Tan, Alvin and Tan, Cheston},
+  journal={arXiv preprint arXiv:2411.07664},
+  year={2024},
+  selected={true},
+  abstract={Understanding spatial relations is a crucial cognitive ability for both humans and AI. While current research has predominantly focused on the benchmarking of text-to-image (T2I) models, we propose a more comprehensive evaluation that includes \textit{both} T2I and Large Language Models (LLMs). As spatial relations are naturally understood in a visuo-spatial manner, we develop an approach to convert LLM outputs into an image, thereby allowing us to evaluate both T2I models and LLMs \textit{visually}. We examined the spatial relation understanding of 8 prominent generative models (3 T2I models and 5 LLMs) on a set of 10 common prepositions, as well as assess the feasibility of automatic evaluation methods. Surprisingly, we found that T2I models only achieve subpar performance despite their impressive general image-generation abilities. Even more surprisingly, our results show that LLMs are significantly more accurate than T2I models in generating spatial relations, despite being primarily trained on textual data. We examined reasons for model failures and highlight gaps that can be filled to enable more spatially faithful generations.},
+  pdf={https://arxiv.org/pdf/2411.07664} 
 }
