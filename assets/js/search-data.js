@@ -399,27 +399,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-building-a-remote-controlled-boat",
           title: 'Building a Remote Controlled Boat',
-          description: "with background image",
+          description: "Introductory workshop to robotics in water",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-an-automated-herbal-powder-dispensing-machine",
+          title: 'An Automated Herbal Powder Dispensing Machine',
+          description: "Building a CNC Powder Dispensing Machine with the CoreXY mechanism",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-rag-educational-chatbot",
+          title: 'RAG Educational Chatbot',
+          description: "Delivering a tool catered to university students using generative AI and RAG",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-flight-delay-simulator",
+          title: 'Flight Delay Simulator',
+          description: "Building a Discrete Event Simulation for Flight Delays",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-superscalar-cpu-simulator",
+          title: 'Superscalar CPU Simulator',
+          description: "Building a 4-way Superscalar CPU with speculative decoding and Branch Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
