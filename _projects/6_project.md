@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Psychology study on AI Bias 
+description: Performing the Implicit Association Test Study for AI Bias 
+img: assets/img/projects/ai-bias-psychology/iat.png 
+redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 4
 category: fun
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Flight Delay Simulator
 description: Building a Discrete Event Simulation for Flight Delays 
-img: assets/img/scoot/UI.png 
+img: assets/img/projects/scoot/UI.png 
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
 category: fun

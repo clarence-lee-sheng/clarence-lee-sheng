@@ -2,7 +2,7 @@
 layout: page
 title: Superscalar CPU Simulator
 description: Building a 4-way Superscalar CPU with speculative decoding and Branch Prediction
-img: assets/img/superscalar-cpu-simulator/architecture.png
+img: assets/img/projects/superscalar-cpu-simulator/architecture.png
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
 category: fun

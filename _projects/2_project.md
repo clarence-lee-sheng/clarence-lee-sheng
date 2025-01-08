@@ -2,7 +2,7 @@
 layout: page
 title: An Automated Herbal Powder Dispensing Machine 
 description: Building a CNC Powder Dispensing Machine with the CoreXY mechanism 
-img: assets/img/powder-dispensing-machine/powder-dispensing-machine.png
+img: assets/img/projects/powder-dispensing-machine/powder-dispensing-machine.png
 importance: 2
 redirect: https://clarence-lee-sheng.github.io/projects/
 category: work

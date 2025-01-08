@@ -2,7 +2,7 @@
 layout: page
 title: RAG Educational Chatbot 
 description: Delivering a tool catered to university students using generative AI and RAG
-img: assets/img/nugen-studio/rag.png 
+img: assets/img/projects/nugen-studio/rag.png 
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
 category: work
