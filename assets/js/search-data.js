@@ -397,8 +397,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-neurips-2024",
           title: 'I attended Neurips 2024!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-building-a-remote-controlled-boat",
+          title: 'Building a Remote Controlled Boat',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
