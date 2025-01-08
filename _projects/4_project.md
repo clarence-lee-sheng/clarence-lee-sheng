@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Flight Delay Simulator
+description: Building a Discrete Event Simulation for Flight Delays 
+img: assets/img/scoot/UI.png 
+redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
 category: fun
 ---
