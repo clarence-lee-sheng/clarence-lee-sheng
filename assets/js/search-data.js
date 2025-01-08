@@ -422,9 +422,9 @@ ninja.data = [{
           description: "Building a 4-way Superscalar CPU with speculative decoding and Branch Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-psychology-study-on-ai-bias",
+          title: 'Psychology study on AI Bias',
+          description: "Performing the Implicit Association Test Study for AI Bias",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
