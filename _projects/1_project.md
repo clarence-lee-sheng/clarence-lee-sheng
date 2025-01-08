@@ -8,14 +8,16 @@ category: work
 related_publications: true
 ---
 
+As part of being a team lead in the Autonomous Underwater Vehicle in SUTD, I was tasked with doing an orientation for our project for the new incoming juniors who would be joining the the Robotics Club in SUTD, SOAR. While most teams and projects do a talk through of their projects, I did not want this project to just become another academic project, but one that incites fun and excitement, as something to remember from their University. 
 
+As such, I decided to build a remote controlled boat, even though I have never built one before. Inspired by youtube videos, I decided to develop my own custom remote controlled boat. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/boat_workshop/3d-printed-boat-hull.png" title="3D printed boat hull" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %} 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
