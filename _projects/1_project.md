@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building a Remote Controlled Boat
-description: with background image
+description: Introductory workshop to robotics in water 
 img: assets/img/projects/boat_workshop/boat.png
 importance: 1
 category: work
