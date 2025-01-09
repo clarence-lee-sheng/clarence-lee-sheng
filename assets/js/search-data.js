@@ -399,7 +399,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-building-a-remote-controlled-boat",
           title: 'Building a Remote Controlled Boat',
-          description: "Introductory workshop to robotics in water",
+          description: "Introductory workshop for building robots that run on water s",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-an-automated-herbal-powder-dispensing-machine",
@@ -427,9 +427,9 @@ ninja.data = [{
           description: "Performing the Implicit Association Test Study for AI Bias",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-architectmind-ai-a-generative-building-generator-for-architects",
+          title: 'ArchitectMind.ai, A Generative Building Generator for Architects',
+          description: "Reinforcement Learning for Generated Building Designs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
