@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+          title: "Projects",
+          description: "A story of my passion",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -402,9 +402,9 @@ ninja.data = [{
           description: "Introductory workshop for building robots that run on water s",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-an-automated-herbal-powder-dispensing-machine",
-          title: 'An Automated Herbal Powder Dispensing Machine',
-          description: "Building a CNC Powder Dispensing Machine with the CoreXY mechanism",
+            },},{id: "projects-powderful",
+          title: 'Powderful',
+          description: "Building an Automated CNC Herbal Powder Dispensing Machine with the CoreXY mechanism",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-rag-educational-chatbot",
@@ -427,9 +427,9 @@ ninja.data = [{
           description: "Performing the Implicit Association Test Study for AI Bias",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-architectmind-ai-a-generative-building-generator-for-architects",
-          title: 'ArchitectMind.ai, A Generative Building Generator for Architects',
-          description: "Reinforcement Learning for Generated Building Designs",
+            },},{id: "projects-architectmind-ai",
+          title: 'ArchitectMind.ai',
+          description: "Reinforcement Learning for Generative Building Designs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-building-an-autonomous-underwater-vehicle",
