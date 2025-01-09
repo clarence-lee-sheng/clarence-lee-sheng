@@ -5,7 +5,7 @@ description: Performing the Implicit Association Test Study for AI Bias
 img: assets/img/projects/ai-bias-psychology/iat.png 
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

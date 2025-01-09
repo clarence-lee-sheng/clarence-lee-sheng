@@ -5,7 +5,7 @@ description: Building a Discrete Event Simulation for Flight Delays
 img: assets/img/projects/scoot/UI.png 
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

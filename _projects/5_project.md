@@ -5,7 +5,7 @@ description: Building a 4-way Superscalar CPU with speculative decoding and Bran
 img: assets/img/projects/superscalar-cpu-simulator/architecture.png
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
