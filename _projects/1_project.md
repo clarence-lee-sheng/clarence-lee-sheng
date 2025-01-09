@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building a Remote Controlled Boat
-description: Introductory workshop to robotics in water 
+description: Introductory workshop for building robots that run on water s
 img: assets/img/projects/boat_workshop/boat.png
 redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 1
