@@ -2,7 +2,7 @@
 layout: page
 title: ArchitectMind.ai, A Generative Building Generator for Architects
 description: Reinforcement Learning for Generated Building Designs 
-img: assets/img/projects/spads/spads-ui.png
+img: assets/img/projects/spads/spads_ui.png
 importance: 1
 category: work
 related_publications: true
