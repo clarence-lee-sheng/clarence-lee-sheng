@@ -2,7 +2,8 @@
 layout: page
 title: Building an Autonomous Underwater Vehicle 
 description: Building control and navigation systems in an underwater vehicle
-img: assets/img/project/auv/auv.png
+img: assets/img/projects/auv/auv.png
+redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 2
 category: work
 giscus_comments: true

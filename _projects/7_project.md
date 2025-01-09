@@ -3,6 +3,7 @@ layout: page
 title: ArchitectMind.ai, A Generative Building Generator for Architects
 description: Reinforcement Learning for Generated Building Designs 
 img: assets/img/projects/spads/spads_ui.png
+redirect: https://clarence-lee-sheng.github.io/projects/
 importance: 1
 category: work
 related_publications: true
