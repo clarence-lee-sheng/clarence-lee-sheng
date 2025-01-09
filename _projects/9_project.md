@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Uncertainty Estimation for Large Language Models 
+description: Calibration and Analysing P(I know) using Semantic Entropy Scores 
+img: assets/img/projects/uncertainty_estimation/semantic_entropy_plot.png
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
