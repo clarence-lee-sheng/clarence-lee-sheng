@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: A story of my passion
 permalink: /projects/
-description: A story of my passion
+description: Projects 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
